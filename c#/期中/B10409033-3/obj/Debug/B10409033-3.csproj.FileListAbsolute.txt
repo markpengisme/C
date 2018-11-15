@@ -1,0 +1,10 @@
+D:\B10409033-彭聖貿\B10409033-3\obj\Debug\B10409033-3.csprojAssemblyReference.cache
+D:\B10409033-彭聖貿\B10409033-3\obj\Debug\B10409033_3.Form1.resources
+D:\B10409033-彭聖貿\B10409033-3\obj\Debug\B10409033_3.Properties.Resources.resources
+D:\B10409033-彭聖貿\B10409033-3\obj\Debug\B10409033-3.csproj.GenerateResource.cache
+D:\B10409033-彭聖貿\B10409033-3\obj\Debug\B10409033-3.csproj.CoreCompileInputs.cache
+D:\B10409033-彭聖貿\B10409033-3\bin\Debug\B10409033-3.exe.config
+D:\B10409033-彭聖貿\B10409033-3\bin\Debug\B10409033-3.exe
+D:\B10409033-彭聖貿\B10409033-3\bin\Debug\B10409033-3.pdb
+D:\B10409033-彭聖貿\B10409033-3\obj\Debug\B10409033-3.exe
+D:\B10409033-彭聖貿\B10409033-3\obj\Debug\B10409033-3.pdb

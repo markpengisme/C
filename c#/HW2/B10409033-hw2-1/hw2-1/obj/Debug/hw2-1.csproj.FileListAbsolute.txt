@@ -1,0 +1,11 @@
+c:\users\test\source\repos\hw2-1\hw2-1\bin\Debug\hw2-1.exe.config
+c:\users\test\source\repos\hw2-1\hw2-1\bin\Debug\hw2-1.exe
+c:\users\test\source\repos\hw2-1\hw2-1\bin\Debug\hw2-1.pdb
+c:\users\test\source\repos\hw2-1\hw2-1\obj\Debug\hw2-1.csprojAssemblyReference.cache
+c:\users\test\source\repos\hw2-1\hw2-1\obj\Debug\hw2_1.Form1.resources
+c:\users\test\source\repos\hw2-1\hw2-1\obj\Debug\hw2_1.Properties.Resources.resources
+c:\users\test\source\repos\hw2-1\hw2-1\obj\Debug\hw2-1.csproj.GenerateResource.cache
+c:\users\test\source\repos\hw2-1\hw2-1\obj\Debug\hw2-1.csproj.CoreCompileInputs.cache
+c:\users\test\source\repos\hw2-1\hw2-1\obj\Debug\hw2-1.exe
+c:\users\test\source\repos\hw2-1\hw2-1\obj\Debug\hw2-1.pdb
+c:\users\test\source\repos\hw2-1\hw2-1\obj\Debug\hw2_1.Form2.resources
